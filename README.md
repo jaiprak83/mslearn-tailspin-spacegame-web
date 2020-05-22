@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Jaiprak/DevOpsChallenge/_apis/build/status/jaiprak83.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/Jaiprak/DevOpsChallenge/_build/latest?definitionId=17&branchName=master)
 
 # Contributing
 
